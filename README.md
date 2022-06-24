@@ -1,1 +1,2 @@
-# Coochbehar-Polyclinic
+# Mediqueue
+Internship assignment
